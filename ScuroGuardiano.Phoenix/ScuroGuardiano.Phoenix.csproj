@@ -4,13 +4,17 @@
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <TargetFramework>net8.0</TargetFramework>
         <PackageId>ScuroGuardiano.Phoenix</PackageId>
-        <Version>1.0.0</Version>
+        <Version>1.0.1</Version>
         <Authors>ScuroGuardiano</Authors>
         <Description>Thin wrapper on execve on Unix-like systems and prctl on Linux</Description>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/ScuroGuardiano/Phoenix</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/ScuroGuardiano/Phoenix</PackageProjectUrl>
 
-        <PackageReadmeFile>../README.md</PackageReadmeFile>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
         <PackageTags>execve;linux;unix;process;native</PackageTags>
+
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
 
         <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     </PropertyGroup>
