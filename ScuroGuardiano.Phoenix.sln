@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScuroGuardiano.Phoenix", "ScuroGuardiano.Phoenix\ScuroGuardiano.Phoenix.csproj", "{BDA1D90B-9219-4F30-8068-54513119E371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phoenix.TooHardToWriteTests", "Phoenix.TooHardToWriteTests\Phoenix.TooHardToWriteTests.csproj", "{E9950D60-DE4F-475E-A1F3-08BCB5EEA26D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA1D90B-9219-4F30-8068-54513119E371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA1D90B-9219-4F30-8068-54513119E371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA1D90B-9219-4F30-8068-54513119E371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA1D90B-9219-4F30-8068-54513119E371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9950D60-DE4F-475E-A1F3-08BCB5EEA26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9950D60-DE4F-475E-A1F3-08BCB5EEA26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9950D60-DE4F-475E-A1F3-08BCB5EEA26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9950D60-DE4F-475E-A1F3-08BCB5EEA26D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
